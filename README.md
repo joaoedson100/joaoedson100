@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html and Css
 - 💞️ I’m looking to collaborate in the programming area
 - 📫 How to reach me my  email: joaoedson100-2011@hotmail.com
+- 👨‍🎓 linkedin(https://www.linkedin.com/in/jo%C3%A3o-edson-15987b48/)
 
 <!---
 joaoedson100/joaoedson100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
